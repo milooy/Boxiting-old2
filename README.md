@@ -3,7 +3,7 @@
 ## 컨트리뷰터 목록
 
 - 진유림
-- 너구리
+- 신라면
 
 ## 강의 링크
 https://www.inflearn.com/users/@jayjinjay
