@@ -2,8 +2,10 @@
 
 ## 컨트리뷰터 목록
 
-- 진유림
-- 너구리
+-   진유림
+-   너구리
+-   차누
 
 ## 강의 링크
+
 https://www.inflearn.com/users/@jayjinjay
