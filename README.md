@@ -4,6 +4,7 @@
 
 - 진유림
 - 너구리
+- 편채범
 
 ## 강의 링크
 https://www.inflearn.com/users/@jayjinjay
