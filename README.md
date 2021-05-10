@@ -5,5 +5,7 @@
 - 진유림
 - 너구리
 
+- 빈센조
+
 ## 강의 링크
 https://www.inflearn.com/users/@jayjinjay
