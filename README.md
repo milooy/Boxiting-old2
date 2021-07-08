@@ -4,6 +4,7 @@
 
 - 진유림
 - 너구리
+- 윤동환
 
 ## 강의 링크
 https://www.inflearn.com/users/@jayjinjay
