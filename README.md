@@ -4,8 +4,9 @@
 
 - 진유림
 - 너구리
-- 마르코 Marco
-- jwu
+- 도니
+- 마르코
+- 주
 
 ## 강의 링크
 https://www.inflearn.com/users/@jayjinjay
