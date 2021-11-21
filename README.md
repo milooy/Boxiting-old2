@@ -4,7 +4,7 @@
 
 - 진유림
 - 너구리
-- 마르코
+- 마르코 Marco
 
 ## 강의 링크
 https://www.inflearn.com/users/@jayjinjay
