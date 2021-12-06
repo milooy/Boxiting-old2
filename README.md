@@ -4,6 +4,8 @@
 
 - 진유림
 - 너구리
+- 이시윤 (lol wrote my name again hahah)
 
 ## 강의 링크
+
 https://www.inflearn.com/users/@jayjinjay
