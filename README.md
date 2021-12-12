@@ -4,6 +4,8 @@
 
 - 진유림
 - 너구리
+- 도토리
 
 ## 강의 링크
+
 https://www.inflearn.com/users/@jayjinjay
