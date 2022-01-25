@@ -4,6 +4,8 @@
 
 - 진유림
 - 너구리
+- 장영진
 
 ## 강의 링크
+
 https://www.inflearn.com/users/@jayjinjay
