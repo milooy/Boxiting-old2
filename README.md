@@ -4,6 +4,7 @@
 
 - 진유림
 - 너구리
+- 유하은!
 
 ## 강의 링크
 https://www.inflearn.com/users/@jayjinjay
