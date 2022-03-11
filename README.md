@@ -4,6 +4,7 @@
 
 - 진유림
 - 너구리
+- 토니킴
 
 ## 강의 링크
 https://www.inflearn.com/users/@jayjinjay
