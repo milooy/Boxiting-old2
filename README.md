@@ -4,7 +4,7 @@
 
 - 진유림
 - 너구리
-- 안다혜
+- dahye
 
 ## 강의 링크
 https://www.inflearn.com/users/@jayjinjay
